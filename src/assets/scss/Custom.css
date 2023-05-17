@@ -1,0 +1,47 @@
+.sidebar-nav ul .sidebar-item.selected > .sidebar-link
+{
+    background:gray;
+}
+
+.left-sidebar {
+    padding-top: 60px;
+}
+
+.navbar-collapse[data-navbarbg="skin6"], #main-wrapper[data-layout="vertical"] .topbar[data-navbarbg="skin6"], #main-wrapper[data-layout="horizontal"] .topbar .navbar-collapse[data-navbarbg="skin6"], #main-wrapper[data-layout="horizontal"] .topbar[data-navbarbg="skin6"] {
+    background: #eab131 !important;
+}
+
+#main-wrapper[data-layout="vertical"] .topbar .top-navbar .navbar-header[data-logobg="skin6"], #main-wrapper[data-layout="horizontal"] .topbar .top-navbar .navbar-header[data-logobg="skin6"] {
+    background: #20222a;
+    border-bottom: 1px solid darkgray;
+}
+
+.auth-wrapper .auth-box {
+    background: #66ADFF;
+}
+.navbar-collapse[data-navbarbg="skin6"], #main-wrapper[data-layout="vertical"] .topbar[data-navbarbg="skin6"], #main-wrapper[data-layout="horizontal"] .topbar .navbar-collapse[data-navbarbg="skin6"], #main-wrapper[data-layout="horizontal"] .topbar[data-navbarbg="skin6"] {
+    background: #66ADFF !important;
+}
+.ReactTable .rt-tbody .rt-td {
+    border-bottom: 2px solid #ddd;
+    border-right: 2px solid #ddd !important;
+    padding: 4px;
+}
+
+
+.ReactTable .rt-thead .rt-resizable-header {
+    background-color: #66ADFF;
+    color: white;
+    padding: 10px;
+}
+.btn-secondary {
+    color: #fff;
+    background-color: #66ADFF;
+    border-color: #8898aa;
+    box-shadow: 0 4px 6px rgb(50 50 93 / 11%), 0 1px 3px rgb(0 0 0 / 8%);
+}
+.bootstrap-switch .bootstrap-switch-handle-off, .bootstrap-switch .bootstrap-switch-handle-on, .bootstrap-switch .bootstrap-switch-label {
+
+    line-height: unset !important;
+    
+  }
