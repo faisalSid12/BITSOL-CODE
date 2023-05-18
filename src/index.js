@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import Spinner from './views/spinner/Spinner';
 import './assets/scss/style.scss';
 import './assets/scss/Custom.css';
-import awsSetup from "./awsSetup";
 
 
 
